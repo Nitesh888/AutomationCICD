@@ -47,6 +47,7 @@ public class ErrorValidationsTest extends BaseTest {
 		Assert.assertTrue(confirmmessage.equalsIgnoreCase("THANKYOU FOR THE ORDER."));
 		// Applying assertion to compare the text with the web element
 		
+               //modifications in test
 		
 	}
 	
